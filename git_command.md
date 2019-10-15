@@ -5,7 +5,6 @@ git status
 git add .
 添加注释
 git commit -m "zhu shi"
-
-
-
+推送本地仓库master分支的所有内容
+git push -u origin master
 ```
